@@ -1,31 +1,30 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.1)  25 JUL 2019 15:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.23)  25 JUL 2019 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cuisine.tex
 (./cuisine.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
 \f@nch@O@elh=\skip44
@@ -38,14 +37,14 @@ s
 \f@nch@O@orf=\skip51
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -54,9 +53,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -98,37 +97,36 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip78
 \cftfigindent=\skip79
 \cftfignumwidth=\skip80
-\c@lofdepth=\count91
-\c@lotdepth=\count92
+\c@lofdepth=\count92
+\c@lotdepth=\count93
 \cftbeforelottitleskip=\skip81
 \cftafterlottitleskip=\skip82
 \cftbeforetabskip=\skip83
 \cfttabindent=\skip84
 \cfttabnumwidth=\skip85
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count93
-\mult@box=\box26
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count94
+\mult@box=\box27
 \multicol@leftmargin=\dimen111
-\c@unbalance=\count94
-\c@collectmore=\count95
-\doublecol@number=\count96
-\multicoltolerance=\count97
-\multicolpretolerance=\count98
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
 \full@width=\dimen112
 \page@free=\dimen113
 \premulticols=\dimen114
 \postmulticols=\dimen115
 \multicolsep=\skip86
 \multicolbaselineskip=\skip87
-\partial@page=\box27
-\last@line=\box28
+\partial@page=\box28
+\last@line=\box29
 \maxbalancingoverflow=\dimen116
-\mult@rightbox=\box29
-\mult@grightbox=\box30
-\mult@gfirstbox=\box31
-\mult@firstbox=\box32
-\@tempa=\box33
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
 \@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
@@ -145,14 +143,15 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\c@columnbadness=\count99
-\c@finalcolumnbadness=\count100
+\@tempa=\box50
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
 \last@try=\dimen117
 \multicolovershoot=\dimen118
 \multicolundershoot=\dimen119
-\mult@nat@firstbox=\box50
-\colbreak@box=\box51
-\mc@col@check@num=\count101
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count102
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -198,15 +197,15 @@ LaTeX Font Info:    ... okay on input line 49.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(108.405pt, 614.295pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-42.0pt
+* \textwidth=505.89pt
+* \textheight=614.295pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-5.86499pt
 * \headheight=12.0pt
 * \headsep=30.0pt
 * \topskip=10.0pt
@@ -226,16 +225,16 @@ LaTeX Font Info:    ... okay on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
+\scratchcounter=\count103
 \scratchdimen=\dimen122
-\scratchbox=\box52
-\nofMPsegments=\count103
-\nofMParguments=\count104
+\scratchbox=\box53
+\nofMPsegments=\count104
+\nofMParguments=\count105
 \everyMPshowfont=\toks16
-\MPscratchCnt=\count105
+\MPscratchCnt=\count106
 \MPscratchDim=\dimen123
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks17
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -264,14 +263,9 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+))))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -309,57 +303,106 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `cuisine.toc'.
 
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
 <Pictures/Beef_Stew.jpg, id=14, 652.4375pt x 913.4125pt>
 File: Pictures/Beef_Stew.jpg Graphic file (type jpg)
 <use Pictures/Beef_Stew.jpg>
-Package pdftex.def Info: Pictures/Beef_Stew.jpg  used on input line 79.
+Package pdftex.def Info: Pictures/Beef_Stew.jpg  used on input line 81.
 (pdftex.def)             Requested size: 213.3936pt x 248.95224pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 30.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+Make it at least 30.0pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 [3 <./Pictures/Beef_Stew.jpg>]
 <Pictures/Meatloaf.jpg, id=19, 542.025pt x 304.88907pt>
 File: Pictures/Meatloaf.jpg Graphic file (type jpg)
 <use Pictures/Meatloaf.jpg>
-Package pdftex.def Info: Pictures/Meatloaf.jpg  used on input line 121.
-(pdftex.def)             Requested size: 277.42155pt x 248.96855pt.
+Package pdftex.def Info: Pictures/Meatloaf.jpg  used on input line 125.
+(pdftex.def)             Requested size: 241.84961pt x 177.836pt.
+ [4 <./Pictures/Meatloaf.jpg>]
+<Pictures/Chicken_Parmesan.jpg, id=24, 702.625pt x 1053.9375pt>
+File: Pictures/Chicken_Parmesan.jpg Graphic file (type jpg)
+<use Pictures/Chicken_Parmesan.jpg>
+Package pdftex.def Info: Pictures/Chicken_Parmesan.jpg  used on input line 163.
 
-Overfull \hbox (7.86076pt too wide) in paragraph at lines 120--122
-[]  [] 
- []
-
-[4 <./Pictures/Meatloaf.jpg>] (./cuisine.aux) ) 
+(pdftex.def)             Requested size: 263.19424pt x 234.72952pt.
+ [5 <./Pictures/Chicken_Parmesan.jpg>]
+<Pictures/Chili.jpg, id=28, 702.625pt x 1053.9375pt>
+File: Pictures/Chili.jpg Graphic file (type jpg)
+<use Pictures/Chili.jpg>
+Package pdftex.def Info: Pictures/Chili.jpg  used on input line 205.
+(pdftex.def)             Requested size: 213.39436pt x 248.96188pt.
+ [6 <./Pictures/Chili.jpg>]
+<Pictures/Chicken_Enchilada.png, id=32, 752.8125pt x 752.8125pt>
+File: Pictures/Chicken_Enchilada.png Graphic file (type png)
+<use Pictures/Chicken_Enchilada.png>
+Package pdftex.def Info: Pictures/Chicken_Enchilada.png  used on input line 250
+.
+(pdftex.def)             Requested size: 227.62596pt x 284.53246pt.
+ [7 <./Pictures/Chicken_Enchilada.png>]
+<Pictures/Stuffed_Peppers.png, id=37, 128.48pt x 128.48pt>
+File: Pictures/Stuffed_Peppers.png Graphic file (type png)
+<use Pictures/Stuffed_Peppers.png>
+Package pdftex.def Info: Pictures/Stuffed_Peppers.png  used on input line 287.
+(pdftex.def)             Requested size: 227.6409pt x 206.2995pt.
+ [8 <./Pictures/Stuffed_Peppers.png>]
+<Pictures/Lemon_Garlic_Salmon.jpg, id=43, 542.025pt x 304.88907pt>
+File: Pictures/Lemon_Garlic_Salmon.jpg Graphic file (type jpg)
+<use Pictures/Lemon_Garlic_Salmon.jpg>
+Package pdftex.def Info: Pictures/Lemon_Garlic_Salmon.jpg  used on input line 3
+19.
+(pdftex.def)             Requested size: 284.5343pt x 284.53947pt.
+ [9 <./Pictures/Lemon_Garlic_Salmon.jpg>]
+<Pictures/Grilled_Chicken_Spice_Rub.jpg, id=47, 150.5625pt x 150.5625pt>
+File: Pictures/Grilled_Chicken_Spice_Rub.jpg Graphic file (type jpg)
+<use Pictures/Grilled_Chicken_Spice_Rub.jpg>
+Package pdftex.def Info: Pictures/Grilled_Chicken_Spice_Rub.jpg  used on input 
+line 351.
+(pdftex.def)             Requested size: 284.58528pt x 284.58528pt.
+ [10 <./Pictures/Grilled_Chicken_Spice_Rub.jpg>]
+<Pictures/Oven_Baked_BBQ_Chicken.jpeg, id=51, 803.0pt x 1204.5pt>
+File: Pictures/Oven_Baked_BBQ_Chicken.jpeg Graphic file (type jpg)
+<use Pictures/Oven_Baked_BBQ_Chicken.jpeg>
+Package pdftex.def Info: Pictures/Oven_Baked_BBQ_Chicken.jpeg  used on input li
+ne 384.
+(pdftex.def)             Requested size: 227.61984pt x 227.60759pt.
+ [11 <./Pictures/Oven_Baked_BBQ_Chicken.jpeg>]
+<Pictures/Smoked_Sausage_Skillet.jpg, id=55, 250.9375pt x 250.9375pt>
+File: Pictures/Smoked_Sausage_Skillet.jpg Graphic file (type jpg)
+<use Pictures/Smoked_Sausage_Skillet.jpg>
+Package pdftex.def Info: Pictures/Smoked_Sausage_Skillet.jpg  used on input lin
+e 421.
+(pdftex.def)             Requested size: 227.63362pt x 213.40508pt.
+ [12 <./Pictures/Smoked_Sausage_Skillet.jpg>]
+(./cuisine.aux) ) 
 Here is how much of TeX's memory you used:
- 2497 strings out of 494923
- 35693 string characters out of 6180742
- 101557 words of memory out of 5000000
- 5789 multiletter control sequences out of 15000+600000
+ 2550 strings out of 492615
+ 37220 string characters out of 6131390
+ 117625 words of memory out of 5000000
+ 6429 multiletter control sequences out of 15000+600000
  8960 words of font info for 31 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 41i,10n,43p,274b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
->
-Output written on cuisine.pdf (4 pages, 205435 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 41i,10n,43p,445b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on cuisine.pdf (12 pages, 1634871 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

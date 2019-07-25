@@ -1,2 +1,10 @@
-\contentsline {chapter}{\numberline {1}Beef Stew}{3}
-\contentsline {chapter}{\numberline {2}Meatloaf}{4}
+\contentsline {chapter}{\numberline {1}Beef Stew}{3}% 
+\contentsline {chapter}{\numberline {2}Meatloaf}{4}% 
+\contentsline {chapter}{\numberline {3}Chicken Parmesan}{5}% 
+\contentsline {chapter}{\numberline {4}Chili}{6}% 
+\contentsline {chapter}{\numberline {5}Chicken Enchiladas}{7}% 
+\contentsline {chapter}{\numberline {6}Stuffed Peppers}{8}% 
+\contentsline {chapter}{\numberline {7}Lemon Garlic Salmon}{9}% 
+\contentsline {chapter}{\numberline {8}Grilled Chicken Spice Rub}{10}% 
+\contentsline {chapter}{\numberline {9}Oven Baked BBQ Chicken}{11}% 
+\contentsline {chapter}{\numberline {10}Smoked Sausage Skillet}{12}% 
